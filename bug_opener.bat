@@ -1,1 +1,0 @@
-C:\Users\pavan\PycharmProjects\BrainstormerPrototype\venv\Scripts\python.exe C:\Users\pavan\PycharmProjects\BrainstormerPrototype\brainstormer_p2.py %*
